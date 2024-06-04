@@ -1,0 +1,33 @@
+h1 {
+	color: #cad3f5;
+	font-family: "American Typewriter";
+	text-transform: uppercase;
+}
+h4 {
+	colour: #cad3f5;
+	font-family: "American Typewriter";
+	font-size: 20px;
+}
+body {
+	text-align: center;
+	background: #24273a;
+	color: #cad3f5;
+}
+p{
+	text-align: left;
+	border-radius: 20px;
+	padding: 15px;
+	background: rgba(147, 154, 183, 0.2);
+	font-size: 18px;
+	font-family: "Academy Engraved LET";
+}
+a{
+	color: #8aadf4;
+	font-family: "American Typewriter";
+}
+footer{
+	text-transform: lowercase;
+	padding: 20px;
+	border-radius: 20px;
+	background: rgba(147, 154, 183, 0.3);
+}
