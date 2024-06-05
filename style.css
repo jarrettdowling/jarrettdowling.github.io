@@ -8,12 +8,17 @@ h4 {
 	font-family: "American Typewriter";
 	font-size: 20px;
 }
+.sh1 {
+	colour: #cad3f5;
+	font-family: "American Typewriter";
+	font-size: 20px;
+}
 body {
 	text-align: center;
 	background: #24273a;
 	color: #cad3f5;
 }
-p{
+p {
 	text-align: left;
 	border-radius: 20px;
 	padding: 15px;
@@ -21,9 +26,17 @@ p{
 	font-size: 18px;
 	font-family: "Academy Engraved LET";
 }
-a{
+a {
 	color: #8aadf4;
 	font-family: "American Typewriter";
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.column {
+    display: flex;
+    flex-direction: column;
 }
 footer{
 	text-transform: lowercase;
