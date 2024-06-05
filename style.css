@@ -8,18 +8,13 @@ h4 {
 	font-family: "American Typewriter";
 	font-size: 20px;
 }
-.sh1 {
-	colour: #cad3f5;
-	font-family: "American Typewriter";
-	font-size: 20px;
-}
 body {
-	text-align: center;
+	text-align: left;
 	background: #24273a;
 	color: #cad3f5;
+	padding-left: 50px;
 }
 p {
-	text-align: left;
 	border-radius: 20px;
 	padding: 15px;
 	background: rgba(147, 154, 183, 0.2);
