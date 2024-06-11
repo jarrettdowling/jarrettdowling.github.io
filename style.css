@@ -2,11 +2,13 @@ h1 {
 	color: #cad3f5;
 	font-family: "American Typewriter";
 	text-transform: uppercase;
+	margin-bottom: unset;
 }
 h4 {
 	colour: #cad3f5;
 	font-family: "American Typewriter";
 	font-size: 20px;
+	margin-top: unset;
 }
 body {
 	text-align: left;
