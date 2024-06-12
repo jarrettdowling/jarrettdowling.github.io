@@ -3,17 +3,18 @@ h1 {
 	font-family: "American Typewriter";
 	text-transform: uppercase;
 	margin-bottom: unset;
+	font-size: 36px;
 }
 h2 {
-	colour: #cad3f5;
+	color: #cad3f5;
 	font-family: "American Typewriter";
-	font-size: 20px;
+	font-size: 18px;
 	margin-top: unset;
 }
 h4 {
 	border-radius: 0px;
 	padding: 20px;
-	font-size: 18px;
+	font-size: 20px;
 	font-family: "Academy Engraved LET";
 	text-align: center;
 }
