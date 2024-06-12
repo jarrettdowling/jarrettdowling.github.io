@@ -34,21 +34,23 @@ a {
 	font-family: "American Typewriter";
 }
 .row {
-    display: flex;
-    flex-direction: row;
-    background: rgba(147, 154, 183, 0.2);
-    border:black;
-    border-width: thick;
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;
+	background: rgba(147, 154, 183, 0.2);
+	border:black;
+	border-width: thick;
 	border-style: hidden;
 	padding: 5px;
 }
 .column {
-    display: flex;
-    flex-direction: column;
-    border: black 5px;
-    border-width: thick;
-    border-style: groove;
-    padding: 5px;
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+	border: black 5px;
+	border-width: thick;
+	border-style: groove;
+	padding: 5px;
 }
 img{
     object-fit: contain;
@@ -59,7 +61,7 @@ div#title {
 }
 footer{
 	text-align: center;
-	position: fixed;
+	position: relative;
 	left: 2%;
 	right: 2%;
 	bottom: 5px;
