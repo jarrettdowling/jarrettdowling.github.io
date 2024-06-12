@@ -39,7 +39,6 @@ a {
 	display: flex;
 	flex-direction: row;
 	flex-grow: 1;
-	background: rgba(147, 154, 183, 0.2);
 	border:black;
 	border-width: thick;
 	border-style: hidden;
@@ -51,8 +50,12 @@ a {
 	flex-grow: 1;
 	border: black 5px;
 	border-width: thick;
-	border-style: groove;
-	padding: 5px;
+	border-style: double;
+	border-radius: 10px;
+	background: rgba(147, 154, 183, 0.2);
+	padding: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 img{
 	object-fit: contain;
@@ -65,7 +68,7 @@ div#title {
 }
 footer{
 	text-align: center;
-	position: relative;
+	position: fixed;
 	left: 2%;
 	right: 2%;
 	bottom: 5px;
