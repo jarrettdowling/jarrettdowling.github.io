@@ -50,7 +50,10 @@ a {
     border-style: groove;
     padding: 5px;
 }
-
+img{
+    object-fit: contain;
+    width: 80%;
+}
 div#title {
     border-style: hidden;
 }
