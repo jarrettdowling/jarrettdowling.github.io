@@ -4,11 +4,18 @@ h1 {
 	text-transform: uppercase;
 	margin-bottom: unset;
 }
-h4 {
+h2 {
 	colour: #cad3f5;
 	font-family: "American Typewriter";
 	font-size: 20px;
 	margin-top: unset;
+}
+h4 {
+	border-radius: 0px;
+	padding: 20px;
+	background: rgba(147, 154, 183, 0.2);
+	font-size: 18px;
+	font-family: "Academy Engraved LET";
 }
 body {
 	text-align: left;
