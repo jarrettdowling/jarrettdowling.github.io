@@ -4,30 +4,30 @@
 
 h1 {
 	color: #cad3f5;
-	font-family: "Space Grotesk";
-	text-transform: uppercase;
 	margin-bottom: unset;
+	font-family: "Space Grotesk";
 	font-size: 36px;
+	text-transform: uppercase;
 }
 h2 {
 	color: #cad3f5;
+	margin-top: unset;
 	font-family: "Space Grotesk";
 	font-size: 18px;
-	margin-top: unset;
 }
 h4 {
 	border-radius: 0px;
 	border-bottom: 0;
 	padding: 20px;
+	margin: auto;
 	font-size: 20px;
 	font-family: "Papyrus";
 	text-align: center;
-	margin: auto;
 }
 body {
-	text-align: left;
 	background: #24273a;
 	color: #cad3f5;
+	text-align: left;
 }
 p {
 	padding: 15px;
@@ -56,10 +56,10 @@ a {
 	border-width: thick;
 	border-style: double;
 	border-radius: 10px;
-	background: rgba(147, 154, 183, 0.2);
 	padding: 10px;
 	margin-left: 5px;
 	margin-right: 5px;
+	background: rgba(147, 154, 183, 0.2);
 }
 img{
 	object-fit: contain;
@@ -72,7 +72,6 @@ div#title {
 	background: none;
 }
 footer{
-	text-align: center;
 	position: fixed;
 	left: 2%;
 	right: 2%;
@@ -80,5 +79,7 @@ footer{
 	padding: 20px;
 	border-radius: 20px;
 	background: rgba(147, 154, 183, 0.3);
+	font-family: "Space Grotesk";
+	text-align: center;
 	text-transform: lowercase;
 }
