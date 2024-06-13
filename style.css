@@ -69,6 +69,7 @@ img{
 }
 div#title {
 	border-style: hidden;
+	background: none;
 }
 footer{
 	text-align: center;
