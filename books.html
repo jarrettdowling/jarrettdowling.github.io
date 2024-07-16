@@ -24,8 +24,18 @@
 	<script src="https://code.jquery.com/jquery-3.5.1.js"> </script> 
     <script> 
         $.getJSON('booklist.json', function(data) {
-            console.log("Test");
-        });
+            var html = '';
+            $.each( data, function( key, val ) {
+                html += "<tr id='" + key + "'>" 
+                    + "<td>" + val.Finished + "</td>"
+                    + "<td>" + val.Book + "</td>"
+                    + "<td>" + val.Author + "</td>"
+                    + "<td>" + val.Rating + "</td>"
+                    + "<td>" + val.Format + "</td>"
+                    + "</tr>";
+                });
+            document.getElementById("booklist").innerHTML = html;
+});
 
     </script> 
 </head> 
