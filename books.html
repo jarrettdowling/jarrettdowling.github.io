@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head> 
+	<meta charset="UTF-8"> 
+	<title>Book Read List</title>
+    <style>
+        body {
+            text-align: left;
+        }
+        table {
+            margin-left: 0;
+            font-size: large; 
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th, td { 
+            font-weight: bold; 
+            border: 1px solid black; 
+            padding: 10px; 
+        }
+    </style>
+
+	<!-- INCLUDING JQUERY-->
+	<script src="https://code.jquery.com/jquery-3.5.1.js"> </script> 
+    <script> 
+        $.getJSON('booklist.json', function(data) {
+            console.log("Test");
+        });
+
+    </script> 
+</head> 
+<body> 
+	<section> 
+		<h1>Jarrett's Reading List</h1> 
+
+		<!-- TABLE CONSTRUCTION-->
+		<table id='table'> 
+			<!-- HEADING FORMATION -->
+			<tr> 
+				<th>Date Finished</th> 
+				<th>Book Title</th> 
+				<th>Author</th> 
+				<th>Rating</th> 
+				<th>Format</th> 
+			</tr> 
+            <tbody id="booklist">
+            </tbody>
+        </table>
+	</section> 
+</body> 
+
+</html>
