@@ -6,19 +6,22 @@
 	<link rel="stylesheet" href="style.css">
 	<style>
 	        body {
-	            text-align: left;
+	        	text-align: left;
 	        }
 	        table {
-	            margin-left: 0;
-		    margin-top: 20px;
-	            font-size: large; 
-	            border: 1px solid black;
-	            border-collapse: collapse;
+			border: #6e738d 5px;
+			border-width: thick;
+			border-style: double;
+			border-radius: 10px;
+			margin-left: 0;
+			margin-top: 20px;
+			font-size: large;
 	        }
-	        th, td { 
-	            font-weight: normal; 
-	            border: 1px solid black; 
-	            padding: 10px; 
+	        th, td {
+			border: #6e738d 5px;
+			border-collapse: collapse;
+			font-weight: normal; 
+			padding: 10px; 
 	        }
 	</style>
 
@@ -41,21 +44,20 @@
 	</script> 
 </head> 
 <body> 
-	<section> 
-		<h1>Jarrett's Reading List</h1> 
+	<h1>Jarrett's Reading List</h1> 
+	<h2>Explore my personal reading list, spaning genres and subjects. Each book offers a journey that I do not regret taking.</h2>
 
-		<!-- TABLE CONSTRUCTION-->
-		<table id='table'> 
-			<!-- HEADING FORMATION -->
-			<tr> 
-				<th>Date Finished</th> 
-				<th>Book Title</th> 
-				<th>Author</th> 
-				<th>Rating</th> 
-				<th>Format</th> 
-			</tr> 
-            	<tbody id="booklist"> </tbody>
-        	</table>
-	</section> 
+	<!-- TABLE CONSTRUCTION-->
+	<table id='table'> 
+		<!-- HEADING FORMATION -->
+		<tr> 
+			<th>Date Finished</th> 
+			<th>Book Title</th> 
+			<th>Author</th> 
+			<th>Rating</th> 
+			<th>Format</th> 
+		</tr> 
+	<tbody id="booklist"> </tbody>
+	</table>
 </body> 
 </html>
