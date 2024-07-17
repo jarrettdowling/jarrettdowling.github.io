@@ -4,6 +4,7 @@
 
 h1 {
 	color: #cad3f5;
+	margin-top: auto;
 	margin-bottom: unset;
 	font-family: "Space Grotesk";
 	font-size: 36px;
@@ -38,6 +39,11 @@ p {
 a {
 	color: #8aadf4;
 	font-family: "American Typewriter";
+}
+#headitm {
+	margin-right: 15px;
+	margin-bottom: 0;
+	padding: 2px;
 }
 .row {
 	display: flex;
