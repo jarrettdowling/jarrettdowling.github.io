@@ -36,15 +36,26 @@ p {
 	font-family: "Papyrus";
 	margin: auto;
 }
-a {
-	color: #8aadf4;
-	font-family: "American Typewriter";
+img{
+	object-fit: contain;
+	display: block;
+	margin: auto;
+	width: 80%;
 }
-#headitm {
-	margin-right: 15px;
-	margin-bottom: 0;
-	padding: 2px;
+footer{
+	position: fixed;
+	left: 2%;
+	right: 2%;
+	bottom: 5px;
+	padding: 20px;
+	border-radius: 20px;
+	background: rgba(147, 154, 183, 0.3);
+	font-family: "Space Grotesk";
+	text-align: center;
+	text-transform: lowercase;
 }
+
+/* Classes */
 .row {
 	display: flex;
 	flex-direction: row;
@@ -67,25 +78,18 @@ a {
 	margin-right: 5px;
 	background: rgba(147, 154, 183, 0.2);
 }
-img{
-	object-fit: contain;
-	display: block;
-	margin: auto;
-	width: 80%;
+.foot {
+	color: #8aadf4;
+	font-family: "American Typewriter";
+}
+
+/* IDs */
+header#headitm {
+	margin-right: 15px;
+	margin-bottom: 0;
+	padding: 2px;
 }
 div#title {
 	border-style: hidden;
 	background: none;
-}
-footer{
-	position: fixed;
-	left: 2%;
-	right: 2%;
-	bottom: 5px;
-	padding: 20px;
-	border-radius: 20px;
-	background: rgba(147, 154, 183, 0.3);
-	font-family: "Space Grotesk";
-	text-align: center;
-	text-transform: lowercase;
 }
