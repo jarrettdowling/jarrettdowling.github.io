@@ -30,6 +30,9 @@ body {
 	color: #cad3f5;
 	text-align: left;
 }
+a {
+	color: #8aadf4;
+}
 p {
 	padding: 15px;
 	font-size: 18px;
@@ -84,8 +87,8 @@ footer{
 }
 
 /* IDs */
-header#headitm {
-	margin-right: 15px;
+h2#headitm {
+	margin-left: 15px;
 	margin-bottom: 0;
 	padding: 2px;
 }
