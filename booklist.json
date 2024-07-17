@@ -1,9 +1,30 @@
 [
  {
-   "Finished": "July 10th, 2023",
-   "Book": "<a href=\"https://www.goodreads.com/book/show/15839976-red-rising\"> Red Rising </a>",
-   "Author": "Pierce Brown",
-   "Rating": 9,
+   "Finished": "July 17th, 2024",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue\">The Invisible Life of Addie LaRue</a>",
+   "Author": "V.E.Schwab",
+   "Rating": 7.5,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "March 2nd, 2024",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/55077697-the-blacktongue-thief\">The Blacktongue Theif</a>",
+   "Author": "Christopher Buehlman",
+   "Rating": 8.5,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "February 10th, 2024",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/61242426-legends-lattes\"> Legends & Lattes</a>",
+   "Author": "Travis Baldree",
+   "Rating": 9.5,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "February 5th, 2024",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/53205853-chaos-on-catnet\"> Chaos on CatNet</a>",
+   "Author": "Naomi Kritzer",
+   "Rating": 8.5,
    "Format": "Audiobook"
  },
  {
@@ -14,10 +35,94 @@
    "Format": "Audiobook"
  },
  {
-   "Finished": "February 5th, 2024",
-   "Book": "<a href=\"https://www.goodreads.com/book/show/53205853-chaos-on-catnet\"> Chaos on CatNet</a>",
-   "Author": "Naomi Kritzer",
-   "Rating": 8.5,
+   "Finished": "September 4th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/39325105-harrow-the-ninth\">Harrow the Ninth</a>",
+   "Author": "",
+   "Rating": 8,
+   "Format": "Paperback"
+ },
+ {
+   "Finished": "August 27th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/42036538-gideon-the-ninth\">Gideon the Ninth</a>",
+   "Author": "",
+   "Rating": 9,
+   "Format": "Paperback"
+ },
+ {
+   "Finished": "July 10th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/15839976-red-rising\"> Red Rising </a>",
+   "Author": "Pierce Brown",
+   "Rating": 9,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "June 30th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/18705209-the-blood-of-olympus\">The Blood of Olympus</a>",
+   "Author": "Rick Riordan",
+   "Rating": 8,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "June 20th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/12127810-the-house-of-hades\">The House of Hades</a>",
+   "Author": "Rick Riordan",
+   "Rating": 7,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "June 11th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/12127750-the-mark-of-athena\">The Mark of Athena</a>",
+   "Author": "Rick Riordan",
+   "Rating": 8,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "June 3rd, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/9520360-the-son-of-neptune\">The Son of Neptune</a>",
+   "Author": "Rick Riordan",
+   "Rating": 8,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "May 27th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/7736182-the-lost-hero\">The Lost Hero</a>",
+   "Author": "Rick Riordan",
+   "Rating": 7,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "May 20th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/4556058-the-last-olympian\"> Percy Jackson and The Last Olympian</a>",
+   "Author": "Rick Riordan",
+   "Rating": 7,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "May 10th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/8130423-the-battle-of-the-labyrinth\">Percy Jackson and The Battle of the Labyrinth</a>",
+   "Author": "Rick Riordan",
+   "Rating": 7.5,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "May 1st, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/561456.The_Titan_s_Curse\">Percy Jackson and The Titan's Curse</a>",
+   "Author": "Rick Riordan",
+   "Rating": 8,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "April 27th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/40727118-the-sea-of-monsters\"> Percy Jackson and The Sea of Monsters</a>",
+   "Author": "Rick Riordan",
+   "Rating": 6.5,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "April 23rd, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/28187.The_Lightning_Thief\"> Percy Jackson and The Lightning Thief</a>",
+   "Author": "Rick Riordan",
+   "Rating": 7.5,
    "Format": "Audiobook"
  }
 ]
