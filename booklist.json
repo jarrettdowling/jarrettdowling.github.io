@@ -1,5 +1,12 @@
 [
  {
+   "Finished": "",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/195790571-the-daughters-war\">The Daughters' War</a>",
+   "Author": "Christopher Buehlman",
+   "Rating": null,
+   "Format": "Audiobook"
+ },
+ {
    "Finished": "July 17th, 2024",
    "Book": "<a href=\"https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue\">The Invisible Life of Addie LaRue</a>",
    "Author": "V.E.Schwab",
@@ -35,16 +42,37 @@
    "Format": "Audiobook"
  },
  {
+   "Finished": "November 28th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/12591698-caliban-s-war\">Caliban's War</a>",
+   "Author": "James S.A. Corey",
+   "Rating": 8.5,
+   "Format": "Paperback"
+ },
+ {
+   "Finished": "October 13th, 2023",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/8855321-leviathan-wakes\">Leviathan Wakes</a>",
+   "Author": "James S.A. Corey",
+   "Rating": 9,
+   "Format": "Paperback"
+ },
+ {
+   "Finished": "September 15th, 2023",
+   "Book": "<a href=\"\">Nona the Ninth</a>",
+   "Author": "Tamsyn Muir",
+   "Rating": 8,
+   "Format": "Paperback"
+ },
+ {
    "Finished": "September 4th, 2023",
    "Book": "<a href=\"https://www.goodreads.com/book/show/39325105-harrow-the-ninth\">Harrow the Ninth</a>",
-   "Author": "",
+   "Author": "Tamsyn Muir",
    "Rating": 8,
    "Format": "Paperback"
  },
  {
    "Finished": "August 27th, 2023",
    "Book": "<a href=\"https://www.goodreads.com/book/show/42036538-gideon-the-ninth\">Gideon the Ninth</a>",
-   "Author": "",
+   "Author": "Tamsyn Muir",
    "Rating": 9,
    "Format": "Paperback"
  },
