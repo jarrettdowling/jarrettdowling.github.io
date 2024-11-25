@@ -33,13 +33,12 @@
 	            $.each( data, function( key, val ) {
 	                html += "<tr id='" + key + "'>" 
 	                    + "<td>" + val.Finished + "</td>"
-	                    + "<td>" + val.Book + "</td>"
-	                    + "<td>" + val.Author + "</td>"
+	                    + "<td>" + val.Movie + "</td>"
 	                    + "<td>" + val.Rating + "</td>"
-	                    + "<td>" + val.Format + "</td>"
+	                    + "<td>" + val.Rewatch + "</td>"
 	                    + "</tr>";
 	                });
-	            document.getElementById("booklist").innerHTML = html;
+	            document.getElementById("movielist").innerHTML = html;
 		});
 	</script> 
 </head> 
