@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # Gender FAQ
 
 If you are seeing this, it means that I have *finally* come out to you (hooray!) or you have stumbled onto my webpage. Please feel free to browse 
