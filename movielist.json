@@ -18,4 +18,52 @@
    "Rating": 7.5,
    "Rewatch": true
  }
+ {
+   "Finished": "November 1st, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt4682266/\">The New Mutants</a>",
+   "Rating": 8,
+   "Rewatch": false
+ },
+ {
+   "Finished": "October 18th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt8425034/\">Bit</a>",
+   "Rating": 8.5,
+   "Rewatch": false
+ },
+ {
+   "Finished": "October 14th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt18412256/\">Alien: Romulus</a>",
+   "Rating": 8,
+   "Rewatch": false
+ },
+ {
+   "Finished": "October 11th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt0106697/\">Demolition Man</a>",
+   "Rating": 6.5,
+   "Rewatch": false
+ },
+ {
+   "Finished": "September 7th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt12610390/\">The Union</a>",
+   "Rating": 7,
+   "Rewatch": false
+ },
+ {
+   "Finished": "September 6th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt0078748/\">Alien</a>",
+   "Rating": 8.5,
+   "Rewatch": false
+ },
+ {
+   "Finished": "September 6th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt2316204/\">Alien: Convenant</a>",
+   "Rating": 8,
+   "Rewatch": false
+ },
+ {
+   "Finished": "September 6th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt1446714/\">Prometheus</a>",
+   "Rating": 8,
+   "Rewatch": false
+ },
 ]
