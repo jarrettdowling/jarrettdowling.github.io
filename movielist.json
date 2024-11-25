@@ -1,10 +1,16 @@
 
 [
  {
-   "Finished": "",
-   "Movie": "<a href=\"https://www.goodreads.com/book/show/195790571-the-daughters-war\">The Daughters' War</a>",
-   "Rating": null,
-   "Rewatch": null
+   "Finished": "November 16th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt1951265/\">Mockingjay Part 1</a>",
+   "Rating": 7,
+   "Rewatch": true
+ },
+ {
+   "Finished": "November 16th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt1951264/\">Catching Fire</a>",
+   "Rating": 7,
+   "Rewatch": true
  },
  {
    "Finished": "November 16th, 2024",
