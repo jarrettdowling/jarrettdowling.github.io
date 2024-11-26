@@ -96,3 +96,12 @@ div#title {
 	border-style: hidden;
 	background: none;
 }
+
+/* Markdown Conversion Classes */
+.highlight {
+	background: rgba(147, 154, 183, 0.2);
+}
+
+.markdown-body table tr {
+	background-color: #24273a;
+}

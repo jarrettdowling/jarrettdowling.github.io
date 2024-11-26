@@ -2,7 +2,7 @@
 # Rust Learning Notes
 **Author: Jarrett Dowling | Date: May 14, 2024**
 
-*Rust Documentation: https://doc.rust-lang.org/stable/book/*
+*Rust Documentation: <a href="https://doc.rust-lang.org/stable/book/*">https://doc.rust-lang.org/stable/book/*</a>
 
 ## Style and Base Syntax
 - *4 spaces not tabs*
