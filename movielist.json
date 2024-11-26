@@ -17,7 +17,7 @@
    "Movie": "<a href=\"https://www.imdb.com/title/tt1392170/\"> The Hunger Games</a>",
    "Rating": 7.5,
    "Rewatch": true
- }
+ },
  {
    "Finished": "November 1st, 2024",
    "Movie": "<a href=\"https://www.imdb.com/title/tt4682266/\">The New Mutants</a>",
@@ -65,5 +65,5 @@
    "Movie": "<a href=\"https://www.imdb.com/title/tt1446714/\">Prometheus</a>",
    "Rating": 8,
    "Rewatch": false
- },
+ }
 ]
