@@ -106,6 +106,17 @@ div#title {
 .highlight {
 	background: rgba(147, 154, 183, 0.2);
 }
+.markdown-body .highlight pre, markdown-body pre {
+	background: rgba(147, 154, 183, 0.2);
+    border-radius: 3px;
+    font-size: 85%;
+    line-height: 1.45;
+    padding: 16px;
+    overflow: auto;
+}
 .markdown-body table tr {
+	background-color: #24273a;
+}
+.markdown-body table tr:nth-child(2n) {
 	background-color: #24273a;
 }
