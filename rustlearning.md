@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # Rust Learning Notes
 **Author: Jarrett Dowling | Date: May 14, 2024**
 
@@ -81,6 +82,7 @@ Integers:
 *signed used 2's compliment*
 
 Integer Literals:
+
 |Literal|Example|
 |-------|-------|
 | Dec | 98_222 |

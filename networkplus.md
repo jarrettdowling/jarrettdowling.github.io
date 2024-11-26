@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # Network+  Notes
 
 ## Network Fundaments
