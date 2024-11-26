@@ -8,7 +8,6 @@ h1 {
 	margin-bottom: unset;
 	font-family: "Space Grotesk";
 	font-size: 36px;
-	text-transform: uppercase;
 }
 h2 {
 	color: #cad3f5;
@@ -23,8 +22,8 @@ h4 {
 	margin: auto;
 	font-size: 20px;
 	font-family: "Papyrus";
-	text-align: center;
 }
+
 body {
 	background: #24273a;
 	color: #cad3f5;
@@ -87,10 +86,16 @@ footer{
 }
 
 /* IDs */
+h1#mainpage {
+	text-transform: uppercase;
+}
 h2#headitm {
 	margin-left: 15px;
 	margin-bottom: 0;
 	padding: 2px;
+}
+h4#mainpage {
+	text-align: center;
 }
 div#title {
 	border-style: hidden;
@@ -101,7 +106,6 @@ div#title {
 .highlight {
 	background: rgba(147, 154, 183, 0.2);
 }
-
 .markdown-body table tr {
 	background-color: #24273a;
 }
