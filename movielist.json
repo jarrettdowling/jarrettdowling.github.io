@@ -1,6 +1,18 @@
 
 [
  {
+   "Finished": "December 15th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt1392190/\">Mad Max: Fury Road</a>",
+   "Rating": 9,
+   "Rewatch": true
+ },
+ {
+   "Finished": "December 15th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt12037194/\">Furiosa: A Mad Max Saga</a>",
+   "Rating": 9,
+   "Rewatch": true
+ },
+ {
    "Finished": "December 11th, 2024",
    "Movie": "<a href=\"https://www.imdb.com/title/tt16366836/\">Venom: The Last Dance</a>",
    "Rating": 7,
@@ -81,6 +93,42 @@
  {
    "Finished": "September 6th, 2024",
    "Movie": "<a href=\"https://www.imdb.com/title/tt1446714/\">Prometheus</a>",
+   "Rating": 8,
+   "Rewatch": false
+ },
+ {
+   "Finished": "August 19th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt1896747/\">Fly Me To The Moon</a>",
+   "Rating": 8,
+   "Rewatch": false
+ },
+ {
+   "Finished": "August 5th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt0083658/\">Blade Runner</a>",
+   "Rating": 7.5,
+   "Rewatch": false
+ },
+ {
+   "Finished": "August 4th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt6264654/\">Free Guy</a>",
+   "Rating": 8.5,
+   "Rewatch": true
+ },
+ {
+   "Finished": "August 3rd, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt19500164/\">Nimona</a>",
+   "Rating": 9.5,
+   "Rewatch": true
+ },
+ {
+   "Finished": "July 21st, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt6723592/\">Tenet</a>",
+   "Rating": 8.5,
+   "Rewatch": false
+ },
+ {
+   "Finished": "July 16th, 2024",
+   "Movie": "<a href=\"https://www.imdb.com/title/tt15574270/\">I Saw The TV Glow</a>",
    "Rating": 8,
    "Rewatch": false
  }
