@@ -7,6 +7,20 @@
    "Format": "Audiobook"
  },
  {
+   "Finished": "January 30th, 2025",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/20981355-the-churn\">The Churn</a>",
+   "Author": "James S. A. Corey",
+   "Rating": 8.5,
+   "Format": "Audiobook"
+ },
+ {
+   "Finished": "January 28th, 2025",
+   "Book": "<a href=\"https://www.goodreads.com/book/show/16131032-abaddon-s-gate\">Abaddons's Gate</a>",
+   "Author": "James S. A. Corey",
+   "Rating": 8,
+   "Format": "Paperback"
+ },
+ {
    "Finished": "November 30th, 2024",
    "Book": "<a href=\"https://www.goodreads.com/book/show/48829708-to-sleep-in-a-sea-of-stars\">To Sleep in a See of Stars</a>",
    "Author": "Christopher Paolini",
@@ -37,7 +51,7 @@
  {
    "Finished": "July 17th, 2024",
    "Book": "<a href=\"https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue\">The Invisible Life of Addie LaRue</a>",
-   "Author": "V.E.Schwab",
+   "Author": "V. E. Schwab",
    "Rating": 7.5,
    "Format": "Audiobook"
  },
@@ -72,14 +86,14 @@
  {
    "Finished": "November 28th, 2023",
    "Book": "<a href=\"https://www.goodreads.com/book/show/12591698-caliban-s-war\">Caliban's War</a>",
-   "Author": "James S.A. Corey",
+   "Author": "James S. A. Corey",
    "Rating": 8.5,
    "Format": "Paperback"
  },
  {
    "Finished": "October 13th, 2023",
    "Book": "<a href=\"https://www.goodreads.com/book/show/8855321-leviathan-wakes\">Leviathan Wakes</a>",
-   "Author": "James S.A. Corey",
+   "Author": "James S. A. Corey",
    "Rating": 9,
    "Format": "Paperback"
  },

@@ -5,14 +5,14 @@ If you are seeing this, it means that I have *finally* come out to you ( hooray!
 the common questions I get asked about my transition.
 
 - **When did you know?**
-I don't have an exact date as I was questioning for many years, but I think some time in 2023. However, wishing to be magically turned into a girl when blowing out birthday candles probably
-should have been a sign.
+I don't have an exact date as I was questioning for many years, but I think some time in 2023. Wishing to be magically turned into a girl when blowing out birthday candles probably
+should have been a sign though.
 
 - **What should you call me?**
 I have not chosen a new name yet, so you can continue to call me Jarrett ( any name suggestions would be helpful, please email them <a href="mailto:website.spacemail.ca">here</a> ).
 
 - **What pronouns should I use?**
-While I accept any pronouns, I prefer they / them at the moment ( subject to change in the future ).
+I prefer they / them; however, I will accept any pronouns ( subject to change in the future ).
 
 - **Are you going to take horomones / HRT?**
 Yes. Actually I have been on hormones since August. You may have noticed that I have been generally happier.
